@@ -1,0 +1,9 @@
+Input: Enter the Number
+6
+Output:
+110
+210
+320
+430
+550
+680
