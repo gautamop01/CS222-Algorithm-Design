@@ -6,4 +6,4 @@ Algorithm Design Course
 - Assignment 4 - Arithmetic on base b numbers
 - Assignment 5 - Modular arithmetic
 - Assignment 6 - Modular division
-- Assignment 7.1 - Implementing printAdjMatrix(), countEdge(), loadAdjList() and printAdjList().
+- Assignment 7.1 - Implementing printAdjMatrix(), countEdge(), loadAdjList() and printAdjList()
