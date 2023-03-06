@@ -5,3 +5,4 @@ Algorithm Design Course
 - Assignment 3 - Working on numbers in arbitrary base
 - Assignment 4 - Arithmetic on base b numbers
 - Assignment 5 - Modular arithmetic
+- Assignment 6 - Modular division
