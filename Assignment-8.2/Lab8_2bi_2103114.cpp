@@ -1,8 +1,7 @@
 /*
 *** Name - Gautam Kumar Mahar 
 *** Roll Number - 2103114
-*** Name - Kanwarraj Singh
-*** Roll Number - 1903122
+
 */
 
 #include <iostream>
