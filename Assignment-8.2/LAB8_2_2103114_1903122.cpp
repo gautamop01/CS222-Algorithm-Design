@@ -321,7 +321,6 @@ int main()
     cout << "PLEASE ENTER THE SECOND STRING --> ";
     cin >> STRING2;
     cout << endl;
-
     // Perform Huffman encoding on the edit distance string between the two input strings
     HUFFMAN_ENCODING(STRING1, STRING2);
 }
