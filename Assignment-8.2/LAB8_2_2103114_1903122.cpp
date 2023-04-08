@@ -5,7 +5,6 @@
 *** Roll Number - 1903122
 */
 
-
 #include <bits/stdc++.h> // include all standard C++ libraries
 using namespace std;
 
